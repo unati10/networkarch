@@ -60,7 +60,7 @@ dev_dependencies:
   dart_code_metrics: ^4.19.1
   flutter_test:
     sdk: flutter
-  icons_launcher: ^2.0.5
+  icons_launcher: ^2.1.0
   import_sorter: ^4.6.0
   mockingjay: ^0.3.0
   very_good_analysis: ^3.1.0
